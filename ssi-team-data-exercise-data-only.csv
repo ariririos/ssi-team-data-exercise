@@ -1,0 +1,207 @@
+﻿Medicaid_ID,Member_Name_Last,Member_Name_First,Member_Middle_Initial,Member_Suffix,Member_Date_of_Birth,ACO_Name,FS_Delivery_Entity,Transportation_Received,Demo_Gender,Demo_Sexual_Orientation,Demo_Race,Demo_Language,Demo_Education,Demo_Employment,Service Category,Submission Due Date,Domain
+111111111111,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,8/6/81,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,6/30/20,Housing
+111111111112,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/12/82,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,6/30/20,Housing
+111111111113,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/25/89,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",English                     ,Bachelor's Degree,Prefer not to say ,TENANCY_SUSTAINING,6/30/20,Housing
+111111111114,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,Jr,2/28/81,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Some College,Unemployed,TENANCY_SUSTAINING,6/30/20,Housing
+111111111115,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/26/84,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Unemployed,TENANCY_SUSTAINING,6/30/20,Housing
+111111111116,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/26/84,AHP MVACO,MVCP,No,Woman,Straight,"Some other race, ethnicity, or origin ",English                     ,Did not finish high school,Unemployed,NUTRITION,6/30/20,Nutrition
+111111111117,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,8/6/81,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Unemployed,NUTRITION,6/30/20,Nutrition
+111111111118,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/23/76,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Some College,Unemployed,NUTRITION,6/30/20,Nutrition
+111111111119,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/3/79,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Bachelor's Degree,Employed Full-Time,NUTRITION,6/30/20,Nutrition
+111111111120,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,Jr,11/7/64,AHP MVACO,MVCP,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Prefer not to say ,TENANCY_SUSTAINING,12/31/20,Housing
+111111111121,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/5/09,AHP MVACO,MVCP,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Student,TENANCY_SUSTAINING,12/31/20,Housing
+111111111122,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/3/06,AHP MVACO,MVCP,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Student,TENANCY_SUSTAINING,12/31/20,Housing
+111111111123,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/2/94,AHP MVACO,MVCP,No,Woman,Straight,White,English                     ,Some College,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111124,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/29/64,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Employed Part-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111125,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,8/13/00,AHP MVACO,MVCP,No,Man,Straight,"Hispanic, Latino, or Spanish",English                     ,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111126,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/10/69,AHP MVACO,MVCP,No,Woman,Prefer not to say,White,Spanish,Did not finish high school,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111127,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/16/67,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Employed Part-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111128,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/26/88,AHP MVACO,MVCP,No,Man,Straight,Prefer not to say,American Sign Language User,Other,Prefer not to say ,TENANCY_SUSTAINING,12/31/20,Housing
+111111111129,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/16/63,AHP MVACO,MVCP,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111130,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/1/81,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Some College,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111131,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/18/99,AHP MVACO,MVCP,No,Woman,Straight,"Hispanic, Latino, or Spanish",English                     ,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111132,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/10/99,AHP MVACO,MVCP,No,Woman,Straight,White,English                     ,Other,Prefer not to say ,TENANCY_SUSTAINING,12/31/20,Housing
+111111111133,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/23/12,AHP MVACO,MVCP,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In grade school,Employed Part-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111134,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/28/77,AHP MVACO,MVCP,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Employed Part-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111135,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/18/64,BMCHP Signature,OCY,No,Woman,Straight,Black or African American,English                     ,High school diploma or GED,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111136,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,8/12/57,BMCHP Signature,OCY,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Prefer not to say ,NUTRITION,8/31/20,Nutrition
+111111111137,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/1/50,BMCHP Signature,OCY,No,Woman,Straight,"Hispanic, Latino, or Spanish",English                     ,Did not finish high school,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111138,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/27/68,BMCHP Signature,OCY,No,Man,Straight,Black or African American,English                     ,Did not finish high school,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111139,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/23/70,BMCHP Signature,OCY,No,Woman,Straight,Black or African American,English                     ,Bachelor's Degree,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111140,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/21/58,BMCHP Signature,OCY,No,Man,Straight,White,English                     ,Some College,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111141,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/15/72,BMCHP Signature,OCY,No,Woman,Prefer not to say,Prefer not to say,English                     ,High school diploma or GED,Prefer not to say ,NUTRITION,12/31/20,Nutrition
+111111111142,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/4/60,BMCHP Signature,OCY,No,Man,Prefer not to say,Prefer not to say,English                     ,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111143,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/19/63,BMCHP Signature,OCY,No,Woman,Straight,Black or African American,English                     ,High school diploma or GED,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111144,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/2/50,C3,MCH,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",English,Prefer not to say,Prefer not to say,HOME_MODIFICATIONS,8/31/20,Housing
+111111111145,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/28/68,C3,PROJB,No,Woman,Bisexual,Black or African American,English,Some College,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111146,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/24/70,C3,"CS, PROJB",No,Woman,Bisexual,"Hispanic, Latino, or Spanish",Spanish,Some College,Employed Part-Time,NUTRITION,8/31/20,Nutrition
+111111111147,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/22/58,C3,PROJB,No,Woman,Gay or Lesbian,"Hispanic, Latino, or Spanish",English,Some College,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111148,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/16/72,C3,PROJB,No,Woman,Gay or Lesbian,Black or African American,English,High school diploma or GED,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111149,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/5/60,C3,PROJB,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In grade school,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111150,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/20/63,C3,PROJB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111151,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/3/50,C3,PROJB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111152,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/29/68,C3,PROJB,No,Man,Prefer not to say,Asian,English,Other,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111153,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/25/70,C3,"CS, PROJB",No,Man,Prefer not to say,Prefer not to say,English,Some College,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111154,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/23/58,C3,WMFP,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Prefer not to say,Prefer not to say,NUTRITION,8/31/20,Nutrition
+111111111155,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/17/72,C3,PROJB,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",English,Some College,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111156,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/6/60,C3,PROJB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In high school,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111157,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/21/63,C3,WMFP,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111158,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/4/50,C3,PROJB,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111159,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/30/68,C3,PROJB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111160,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/26/70,C3,PROJB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Student,NUTRITION,8/31/20,Nutrition
+111111111161,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/24/58,C3,PROJB,No,Woman,Straight,White,English,High school diploma or GED,Prefer not to say,NUTRITION,8/31/20,Nutrition
+111111111162,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/18/72,C3,PROJB,No,Man,Straight,White,English,Some College,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111163,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/7/60,C3,WMFP,No,Man,Straight,White,English,Prefer not to say,Unemployed,NUTRITION,8/31/20,Nutrition
+111111111164,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/22/63,C3,PROJB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111165,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/5/50,C3,MHB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111166,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/1/68,C3,MHB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In grade school,Student,TENANCY_SUSTAINING,12/31/20,Housing
+111111111167,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/27/70,C3,MHB,No,Woman,Prefer not to say,Middle Eastern or Northern African,Arabic,In high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111168,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/25/58,C3,MHB,No,Woman,Straight,Black or African American,English,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111169,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/19/72,C3,MHB,No,Man,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111170,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/8/60,C3,MCH,No,Man,Prefer not to say,Prefer not to say,English,Prefer not to say,Prefer not to say,TENANCY_SUSTAINING,12/31/20,Housing
+111111111171,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/23/63,C3,MHB,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111172,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/6/50,C3,MOC,No,Prefer not to say,Straight,White,English,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111173,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/2/68,C3,MHB,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In high school,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111174,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/28/70,C3,MCH,No,Man,Straight,"Some other race, ethnicity, or origin ",Cape Verdean,Did not finish high school,Employed Part-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111175,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/26/58,C3,SMOC,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Prefer not to say,Prefer not to say,TENANCY_SUSTAINING,12/31/20,Housing
+111111111176,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/20/72,C3,MHB,No,Woman,Straight,"Some other race, ethnicity, or origin ",English,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111177,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/9/60,C3,MCH,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,In grade school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111178,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/24/63,C3,MOC,No,Woman,Prefer not to say,White,English,Prefer not to say,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111179,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/7/50,C3,MCH,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111180,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/3/68,C3,SMOC,No,Woman,Straight,White,English,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111181,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/29/70,C3,MHB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Other,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111182,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/27/58,C3,MHB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Other,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111183,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/21/72,C3,MHB,No,Man,Straight,Black or African American,English,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111184,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/10/60,C3,MHB,No,Man,Straight,Black or African American,English,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111185,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/25/63,C3,SMOC,No,Woman,Straight,"Hispanic, Latino, or Spanish",English,Graduate Degree,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111186,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/8/50,C3,MHB,No,Man,Gay or Lesbian,Black or African American,English,Did not finish high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111187,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/4/68,C3,MCH,No,Man,Straight,"Hispanic, Latino, or Spanish",Spanish,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111188,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/30/70,C3,MHB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111189,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/28/58,C3,MHB,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111190,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/22/72,C3,MOC,No,Woman,Gay or Lesbian,White,English,Other,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111191,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/11/60,C3,MHB,No,Woman,Straight,Black or African American,English,In high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111192,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/26/63,C3,SMOC,No,Man,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111193,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/9/50,C3,MCH,No,Woman,Straight,"Some other race, ethnicity, or origin ",Cape Verdean,Did not finish high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111194,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/5/68,C3,MHB,No,Woman,Prefer not to say,Prefer not to say,English,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111195,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/1/70,C3,MHB,No,Woman,Straight,Black or African American,English,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111196,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/29/58,C3,MHB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,In grade school,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111197,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/23/72,C3,MOC,No,Man,Prefer not to say,White,English,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111198,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/12/60,C3,MHB,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,Prefer not to say,Prefer not to say,TENANCY_SUSTAINING,12/31/20,Housing
+111111111199,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/27/63,C3,MHB,No,Man,Straight,White,English,Other,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111200,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/10/50,C3,SMOC,No,Man,Prefer not to say,"Hispanic, Latino, or Spanish",English,Prefer not to say,Not in Labor Force,TENANCY_SUSTAINING,12/31/20,Housing
+111111111201,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/10/66,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,High school diploma or GED,Not in Labor Force,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111202,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/18/69,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,Did not finish high school,Not in Labor Force,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111203,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/15/70,FLN Berkshire,ServiceNet,No,Man,Gay or Lesbian,White,English                     ,Bachelor's Degree,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111204,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/6/66,FLN Berkshire,ServiceNet,No,Man,Straight,"Some other race, ethnicity, or origin ",English                     ,Did not finish high school,Not in Labor Force,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111205,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/22/55,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,Bachelor's Degree,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111206,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/26/63,FLN Berkshire,BCRHA,No,Man,Straight,White,English                     ,Graduate Degree,Not in Labor Force,TENANCY_SUSTAINING,6/30/20,Housing
+111111111207,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/11/76,FLN Berkshire,BCRHA,No,Woman,Straight,White,English                     ,Some College,Unemployed,TENANCY_SUSTAINING,6/30/20,Housing
+111111111208,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/10/66,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,High school diploma or GED,Not in Labor Force,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111209,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/18/69,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,Did not finish high school,Not in Labor Force,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111210,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/15/70,FLN Berkshire,ServiceNet,No,Man,Gay or Lesbian,White,English                     ,Bachelor's Degree,Unemployed,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111211,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/6/66,FLN Berkshire,ServiceNet,No,Man,Straight,"Some other race, ethnicity, or origin ",English                     ,Did not finish high school,Not in Labor Force,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111212,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/22/55,FLN Berkshire,ServiceNet,No,Man,Straight,White,English                     ,Bachelor's Degree,Unemployed,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111213,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/26/63,FLN Berkshire,BCRHA,No,Man,Straight,White,English                     ,Graduate Degree,Not in Labor Force,TENANCY_SUSTAINING,8/31/20,Housing
+111111111214,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/11/76,FLN Berkshire,BCRHA,No,Woman,Straight,White,English                     ,Some College,Unemployed,TENANCY_SUSTAINING,8/31/20,Housing
+111111111215,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1958-04-12,FLN Berkshire,SERVNET,No,Woman,Straight,White,English                     ,Associate's Degee,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111216,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1973-12-08,FLN Berkshire,SERVNET,No,Man,Straight,"Hispanic, Latino, or Spanish",English                     ,Other,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111217,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1988-09-17,FLN Berkshire,SERVNET,No,Prefer not to say,Prefer not to say,Prefer not to say,English                     ,Prefer not to say,Prefer not to say,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111218,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1968-09-10,FLN Berkshire,SERVNET,No,Man,Straight,White,English                     ,Other,Employed Part-Time,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111219,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1970-07-18,FLN Berkshire,SERVNET,No,Man,Straight,White,English                     ,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111220,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1964-11-03,FLN Berkshire,BCRHA,No,Man,Straight,White,English                     ,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111221,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1957-04-27,FLN Berkshire,BCRHA,No,Woman,Straight,Black or African American,English                     ,Some College,Not in Labor Force,PRETENANCY_TRANSITIONAL,12/31/20,Housing
+111111111222,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1970-12-05,FLN Berkshire,BCRHA,No,Woman,Straight,White,English                     ,Associate's Degee,Prefer not to say ,TENANCY_SUSTAINING,12/31/20,Housing
+111111111223,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1965-07-08,FLN Berkshire,BCRHA,No,Man,Straight,White,English                     ,Did not finish high school,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111224,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1977-11-28,FLN Berkshire,BCRHA,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111225,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1982-04-14,FLN Berkshire,BCRHA,No,Woman,Straight,White,English                     ,High school diploma or GED,Unemployed,TENANCY_SUSTAINING,12/31/20,Housing
+111111111226,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1990-08-23,FLN Berkshire,BCRHA,No,Woman,Straight,White,English                     ,Associate's Degee,Employed Full-Time,TENANCY_SUSTAINING,12/31/20,Housing
+111111111227,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1975-09-10,FLN Berkshire,BFHC_COVID,No,Man,Straight,Black or African American,English                     ,High school diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111228,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1968-09-10,FLN Berkshire,BFHC_COVID,No,Man,Straight,White,English                     ,Other,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111229,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1979-12-12,FLN Berkshire,BFHC_COVID,No,Man,Straight,White,English                     ,Prefer not to say,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111230,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1987-04-12,FLN Berkshire,BFHC_COVID,No,Woman,Straight,White,English                     ,Did not finish high school,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111231,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1974-09-14,FLN Berkshire,BFHC_COVID,No,Man,Straight,"Some other race, ethnicity, or origin ",English                     ,Did not finish high school,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111232,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1960-03-26,FLN Berkshire,BFHC_COVID,No,Man,Prefer not to say,White,English                     ,Other,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111233,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1968-11-11,FLN Berkshire,CHP,No,Man,Straight,White,English                     ,High school diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111234,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1987-09-26,FLN Berkshire,CHP,No,Woman,Straight,White,English                     ,Some College,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111235,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2005-11-19,FLN Berkshire,CHP,No,Woman,Prefer not to say,White,Prefer not to say,Vocational Degree,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111236,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1960-03-20,FLN Berkshire,CHP,No,Woman,Prefer not to say,Black or African American,English                     ,Some College,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111237,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1996-05-30,FLN Berkshire,CHP,No,Woman,Straight,White,English                     ,High school diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111238,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1960-05-13,FLN Berkshire,CHP,No,Woman,Straight,Black or African American,English                     ,High school diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111239,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1978-06-20,FLN Berkshire,CHP,No,Woman,Straight,American Indian or Alaska Native,English                     ,Graduate Degree,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111240,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1978-06-20,FLN Berkshire,CHP,No,Woman,Straight,American Indian or Alaska Native,English                     ,Graduate Degree,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111241,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1958-03-12,FLN Berkshire,CHP,No,Woman,Straight,White,English                     ,Bachelor's Degree,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111242,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1956-11-06,FLN Berkshire,CHP,No,Woman,Prefer not to say,White,English                     ,Some College,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111243,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1986-12-30,FLN Berkshire,CHP,No,Woman,Straight,White,English                     ,Vocational Degree,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111244,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1998-11-10,FLN Berkshire,CHP,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",Spanish,High school diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111245,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1985-04-05,FLN Berkshire,CHP_COVID,No,Woman,Prefer not to say,White,English                     ,Some College,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111246,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1959-12-13,FLN Berkshire,CHP_COVID,No,Woman,Straight,"Some other race, ethnicity, or origin ",English                     ,Some College,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111247,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2015-05-18,FLN Berkshire,CHP_COVID,No,Man,Prefer not to say,Black or African American,English                     ,Other,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111248,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/25/57,FLN Reliant,ESWA,No,Woman,Straight,Black or African American,English                     ,Some College,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111249,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/9/62,FLN Reliant,ESWA,No,Woman,Straight,White,English                     ,High school diploma or GED,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111250,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/24/71,FLN Reliant,ESWA,No,Woman,Straight,White,English                     ,Some College,Not in Labor Force,NUTRITION,8/31/20,Nutrition
+111111111251,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/11/98,FLN Reliant,ESWA,No,Woman,Straight,Black or African American,English                     ,Some College,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111252,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/6/85,FLN Reliant,ESWA,No,Woman,Straight,White,English                     ,High school diploma or GED,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111253,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/14/59,FLN Reliant,ESWA,No,Woman,Straight,White,English                     ,Some College,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111254,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/19/15,FLN_Reliant,ESWA,No,Woman,,White,English,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111255,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/26/57,FLN_Reliant,ESWA,No,Woman,,Black or African American,English,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111256,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/10/62,FLN_Reliant,ESWA,No,Man,,"Some other race, ethnicity, or origin ",Spanish,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111257,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/25/71,FLN_Reliant,ESWA,No,Man,,White,English,Did not finish High School,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111258,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/24/65,HNE Baystate,MHA,No,Woman,Straight,White,English                     ,Graduate Degree,Employed Part-Time,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111259,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/01/88,HNE Baystate,MHA,No,Man,Straight,"Hispanic, Latino, or Spanish",English                     ,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111260,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,02/03/70,HNE Baystate,MHA,No,Man,Straight,Black or African American,English                     ,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111261,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/28/69,HNE Baystate,MHA,No,Man,Straight,Black or African American,English                     ,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,8/31/20,Housing
+111111111262,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/27/57,HNE Baystate,RCDC,No,Man,Straight,Black or African American,English,Other,Not in Labor Force,HOME_MODIFICATIONS,12/31/20,Housing
+111111111263,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/11/62,HNE Baystate,RCDC,No,Woman,Straight,Black or African American,English,Other,Prefer not to say,HOME_MODIFICATIONS,12/31/20,Housing
+111111111264,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/26/71,HNE Baystate,RCDC,No,Woman,Straight,"Hispanic, Latino, or Spanish",English,High school diploma or GED,Unemployed,HOME_MODIFICATIONS,12/31/20,Housing
+111111111265,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/25/65,HNE Baystate,RCDC,No,Woman,Straight,Black or African American,English,High school diploma or GED,Not in Labor Force,HOME_MODIFICATIONS,12/31/20,Housing
+111111111266,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/2/88,HNE Baystate,RCDC,No,Woman,Straight,"Hispanic, Latino, or Spanish",English,High school diploma or GED,Unemployed,HOME_MODIFICATIONS,12/31/20,Housing
+111111111267,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/4/70,HNE Baystate,RCDC,No,Man,Straight,Black or African American,English,In high school,Student,HOME_MODIFICATIONS,12/31/20,Housing
+111111111268,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/29/69,HNE Baystate,RCDC,No,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Not in Labor Force,HOME_MODIFICATIONS,12/31/20,Housing
+111111111269,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/28/57,HNE Baystate,RCDC,No,Woman,Straight,White,English,High school diploma or GED,Not in Labor Force,HOME_MODIFICATIONS,12/31/20,Housing
+111111111270,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/12/62,HNE Baystate,MHA,No,Man,Straight,White,Spanish,Graduate Degree,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111271,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,4/27/71,HNE Baystate,MHA,No,Man,Straight,Black or African American,English,Some College,Not in Labor Force,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111272,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/26/65,HNE Baystate,MHA,No,Man,Straight,Black or African American,English,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111273,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/3/88,HNE Baystate,MHA,No,Man,Straight,"Hispanic, Latino, or Spanish",English,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111274,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/5/70,HNE Baystate,MHA,No,Man,Straight,"Hispanic, Latino, or Spanish",English,Did not finish high school,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111275,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/30/69,HNE Baystate,MHA,No,Woman,Straight,"Hispanic, Latino, or Spanish",English,Did not finish high school,Unemployed,PRETENANCY_INDIVIDUAL,12/31/20,Housing
+111111111276,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/21/65,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111277,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/13/80,Lahey,Eliot,No,Woman,Straight,Prefer not to say,Prefer not to say,Some College,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111278,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/17/71,Lahey,Eliot,No,Man,Straight,White,English                     ,High school diploma or GED,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111279,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/18/72,Lahey,Eliot,No,Man,Straight,White,English                     ,Some College,Prefer not to say ,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111280,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/5/86,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Prefer not to say ,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111281,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/15/80,Lahey,Eliot,No,Woman,Straight,White,English                     ,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111282,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/29/77,Lahey,Eliot,No,Woman,Straight,Prefer not to say,Prefer not to say,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111283,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/9/20,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,High school diploma or GED,Employed Part-Time,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111284,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/27/89,Lahey,Eliot,No,Woman,Prefer not to say,White,Prefer not to say,High school diploma or GED,Employed Full-Time,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111285,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/9/87,Lahey,Eliot,No,Man,Prefer not to say,Prefer not to say,English                     ,Did not finish high school,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111286,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/1/67,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111287,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/5/65,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Unemployed,PRETENANCY_INDIVIDUAL,6/30/20,Housing
+111111111288,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/31/89,Lahey,Eliot,No,Woman,Prefer not to say,White,English                     ,Prefer not to say,Prefer not to say ,TENANCY_SUSTAINING,6/30/20,Housing
+111111111289,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/15/87,Lahey,Eliot,No,Woman,Straight,White,English                     ,Some College,Employed Part-Time,TENANCY_SUSTAINING,6/30/20,Housing
+111111111290,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/12/84,Lahey,Eliot,No,Prefer not to say,Prefer not to say,Prefer not to say,English                     ,Prefer not to say,Prefer not to say ,TENANCY_SUSTAINING,6/30/20,Housing
+111111111291,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,6/4/78,Lahey,ESMV,No,Woman,Straight,White,English                     ,Prefer not to say,Prefer not to say ,NUTRITION,6/30/20,Nutrition
+111111111292,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/5/59,THPP CHA,CHAGROCERIES_COVID,Yes,Man,Straight,"Hispanic, Latino, or Spanish",Spanish,High School Diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111293,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/1/79,THPP CHA,CHAGROCERIES_COVID,No,Woman,Straight,Black or African American,Haitian/Creole,Some College,Employed Full-Time,NUTRITION,12/31/20,Nutrition
+111111111294,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/23/05,THPP CHA,CHAGROCERIES_COVID,No,Woman,Prefer not to say,Prefer not to say,English                     ,In grade school,Student,NUTRITION,12/31/20,Nutrition
+111111111295,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/9/85,THPP CHA,CHAGROCERIES_COVID,Yes,Woman,Straight,Black or African American,English                     ,Did not finish high school,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111296,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/11/75,THPP CHA,CHAGROCERIES_COVID,Yes,Prefer not to say,Prefer not to say,"Hispanic, Latino, or Spanish",English                     ,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111297,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,9/14/69,THPP CHA,CHAGROCERIES_COVID,No,Woman,Prefer not to say,"Hispanic, Latino, or Spanish",English                     ,Prefer not to say,Employed Full-Time,NUTRITION,12/31/20,Nutrition
+111111111298,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/16/16,THPP CHA,CHAGROCERIES_COVID,No,Man,Prefer not to say,Black or African American,English                     ,Other,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111299,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/29/92,THPP CHA,CHAGROCERIES_COVID,Yes,Prefer not to say,Prefer not to say,"Hispanic, Latino, or Spanish",English                     ,Prefer not to say,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111300,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/5/95,THPP CHA,CHAGROCERIES_COVID,No,Prefer not to say,Prefer not to say,White,English                     ,High School Diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111301,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/3/15,THPP CHA,CHAGROCERIES_COVID,No,Prefer not to say,Prefer not to say,Prefer not to say,Spanish,In grade school,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111302,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/14/63,THPP CHA,CHAGROCERIES_COVID,Yes,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111303,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,12/6/95,THPP CHA,CHAGROCERIES_COVID,Yes,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,High School Diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111304,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/3/63,THPP CHA,CHAGROCERIES_COVID,Yes,Woman,Straight,Black or African American,English                     ,Some College,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111305,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,3/7/95,THPP CHA,CHAGROCERIES_COVID,Yes,Prefer not to say,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111306,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,2/23/69,THPP CHA,CHAGROCERIES_COVID,No,Woman,Prefer not to say,Prefer not to say,English                     ,Some College,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111307,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/8/81,THPP CHA,CHAGROCERIES_COVID,No,Man,Prefer not to say,White,English                     ,High School Diploma or GED,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111308,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/8/56,THPP CHA,CHAGROCERIES_COVID,Yes,Woman,Straight,"Hispanic, Latino, or Spanish",Spanish,Did not finish high school,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111309,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,8/4/68,THPP CHA,CHAGROCERIES_COVID,Yes,Man,Straight,Black or African American,English                     ,Did not finish high school,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111310,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/9/69,THPP CHA,CHAGROCERIES_COVID,No,Prefer not to say,Straight,Asian,English                     ,Did not finish high school,Employed Part-Time,NUTRITION,12/31/20,Nutrition
+111111111311,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,1/1/77,THPP CHA,CHAGROCERIES_COVID,Yes,Prefer not to say,Prefer not to say,Prefer not to say,Arabic                     ,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111312,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/5/65,THPP CHA,CS,No,Man,Straight,White,English                     ,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111313,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,10/31/65,THPP CHA,CS,No,Woman,Straight,White,English                     ,Graduate Degree,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111314,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,11/4/56,THPP CHA,CS,No,Woman,Straight,"Some other race, ethnicity, or origin ",Portuguese,High School Diploma or GED,Not in Labor Force,NUTRITION,12/31/20,Nutrition
+111111111315,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,7/18/68,THPP CHA,CS,No,Woman,Straight,Black or African American,English                     ,Bachelor's Degree,Unemployed,NUTRITION,12/31/20,Nutrition
+111111111316,Aaaaaaaa,Aaaaaaaa,Aaaaaaaa,,5/30/67,THPP CHA,CS,No,Woman,Straight,White,English                     ,Prefer not to say,Not in Labor Force,NUTRITION,12/31/20,Nutrition
